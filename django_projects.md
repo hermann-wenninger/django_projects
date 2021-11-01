@@ -1,0 +1,1 @@
+### django projecte nach django by example 3.0
