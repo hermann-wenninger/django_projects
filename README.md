@@ -1,1 +1,1 @@
-# django_projects insired by django examples3
+# django_projects inspired by django examples3
