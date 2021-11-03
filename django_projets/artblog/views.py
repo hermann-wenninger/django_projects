@@ -5,7 +5,7 @@ from django.views.generic import ListView
 from .forms import EmailPostForm
 from django.core.mail import send_mail
 
-app_name = 'artblog'
+
 
 def post_share(request, post_id):
     # Retrieve post by id
